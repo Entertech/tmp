@@ -4,5 +4,11 @@
         "version": "20250730165126",
         "enabled": true,
         "path": "official__memo/20250730165126.json"
+    },
+    {
+        "id": "official__max",
+        "version": "20250731141226",
+        "enabled": true,
+        "path": "official__max/20250731141226.json"
     }
 ]
