@@ -1,0 +1,26 @@
+[
+  {
+    "default": true,
+    "enabled": true,
+    "id": "official__memo",
+    "version": "20250730165126",
+    "asr": {
+      "path": "official__memo/20250730165126.json"
+    },
+    "tts": {
+      "provider": "ms",
+      "speaker": "zh-CN,zh-CN-Xiaoxiao2:DragonHDFlashLatestNeural,default,+5"
+    },
+    {
+      "enabled": true,
+      "id": "official__max",
+      "version": "20250731141226",
+      "asr": {
+        "path": "official__max/20250731141226.json"
+      },
+      "tts": {
+        "provider": "ms",
+        "speaker": "zh-CN,zh-CN-Yunyi:DragonHDFlashLatestNeural,default,+5"
+      }
+  }
+]
