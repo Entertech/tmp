@@ -1,5 +1,6 @@
 [
     {
+        "default": true,
         "id": "official__memo",
         "version": "20250730165126",
         "enabled": true,
