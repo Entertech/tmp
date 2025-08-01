@@ -5,7 +5,7 @@
         "id": "official__memo",
         "version": "20250730165126",
         "asr": {
-            "path": "official__memo/20250730165126.json"
+            "hot_keywords_path": "official__memo/20250730165126.json"
         },
         "tts": {
             "provider": "ms",
@@ -17,7 +17,7 @@
         "id": "official__max",
         "version": "20250731141226",
         "asr": {
-            "path": "official__max/20250731141226.json"
+            "hot_keywords_path": "official__max/20250731141226.json"
         },
         "tts": {
             "provider": "ms",
