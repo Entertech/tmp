@@ -88,6 +88,10 @@
         {
             "name": "mcp.knowledge_base",
             "parameters": {}
+        },
+        {
+            "name": "general.agents_call_tool",
+            "parameters": {}
         }
     ]
 }
