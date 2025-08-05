@@ -35,7 +35,8 @@
         },
         {
             "name": "general.agents_call_tool",
-            "parameters": {}
+            "parameters": {},
+            "stop_after_tool_call": true
         }
     ]
 }
