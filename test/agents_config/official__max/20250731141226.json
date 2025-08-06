@@ -14,6 +14,29 @@
     },
     "tools": [
         {
+            "name": "enhance.memory",
+            "parameters": {
+                "base_url": {
+                    "type": "env",
+                    "key": "ENHANCE_TOOL__MEMORY__BASE_URL",
+                    "default": "",
+                    "required": true
+                },
+                 "auth_token": {
+                    "type": "env",
+                    "key": "ENHANCE_TOOL__MEMORY__AUTH_TOKEN",
+                    "default": "",
+                    "required": true
+                },
+                 "auth_key": {
+                    "type": "env",
+                    "key": "ENHANCE_TOOL__MEMORY__AUTH_KEY",
+                    "default": "ai-tasker-token",
+                    "required": true
+                }
+            }
+        },
+        {
             "name": "enhance.tavily_web_search",
             "parameters": {
                 "api_key": {
