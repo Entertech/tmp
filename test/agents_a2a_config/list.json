@@ -21,7 +21,7 @@
         },
         "tts": {
             "provider": "ms",
-            "speaker": "zh-CN,zh-CN-Yunyi:DragonHDFlashLatestNeural,default,+5"
+            "speaker": "zh-CN,zh-CN-YunfengNeural,strict,+5"
         }
     }
 ]
