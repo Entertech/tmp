@@ -30,7 +30,7 @@
                  "auth_key": {
                     "type": "env",
                     "key": "ENHANCE_TOOL__MEMORY__AUTH_KEY",
-                    "default": "",
+                    "default": "ai-tasker-token",
                     "required": true
                 }
             }
