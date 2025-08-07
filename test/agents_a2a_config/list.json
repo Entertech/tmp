@@ -15,7 +15,7 @@
     {
         "enabled": true,
         "id": "official__max",
-        "version": "20250807095320",
+        "version": "20250731141226",
         "asr": {
             "hot_keywords_path": "official__max/20250731141226.json"
         },
