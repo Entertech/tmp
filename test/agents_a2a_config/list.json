@@ -33,7 +33,7 @@
         },
         "tts": {
             "provider": "ms",
-            "speaker": "zh-CN,zh-CN-Xiaoxiao2:DragonHDFlashLatestNeural,default,+5"
+            "speaker": "zh-CN,zh-CN-XiaoxiaoMultilingualNeural,default,+5"
         }
     },
     {
@@ -45,7 +45,7 @@
         },
         "tts": {
             "provider": "ms",
-            "speaker": "zh-CN,zh-CN-YunfengNeural,strict,+5"
+            "speaker": "zh-CN,zh-CN-Xiaochen:DragonHDFlashLatestNeural,default,+5"
         }
     },
     {
@@ -57,7 +57,7 @@
         },
         "tts": {
             "provider": "ms",
-            "speaker": "zh-CN,zh-CN-YunfengNeural,strict,+5"
+            "speaker": "zh-CN,zh-CN-Yunfan:DragonHDLatestNeural,default,+5"
         }
     },
     {
@@ -69,7 +69,7 @@
         },
         "tts": {
             "provider": "ms",
-            "speaker": "zh-CN,zh-CN-Xiaoxiao2:DragonHDFlashLatestNeural,default,+5"
+            "speaker": "zh-CN,zh-CN-XiaoyouNeural,default,+5"
         }
     },
     {
@@ -81,7 +81,7 @@
         },
         "tts": {
             "provider": "ms",
-            "speaker": "zh-CN,zh-CN-Xiaoxiao2:DragonHDFlashLatestNeural,default,+5"
+            "speaker": "zh-CN,zh-CN-YunyangNeural,default,+5"
         }
     },
     {
@@ -93,7 +93,7 @@
         },
         "tts": {
             "provider": "ms",
-            "speaker": "zh-CN,zh-CN-YunfengNeural,strict,+5"
+            "speaker": "zh-CN,zh-CN-Yunxiao:DragonHDFlashLatestNeural,default,+5"
         }
     },
     {
@@ -105,7 +105,7 @@
         },
         "tts": {
             "provider": "ms",
-            "speaker": "zh-CN,zh-CN-YunfengNeural,strict,+5"
+            "speaker": "zh-CN,zh-CN-YunhaoNeural,default,+5"
         }
     }
 ]
