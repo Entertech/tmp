@@ -13,5 +13,54 @@
         "name": "Max",
         "enabled": true,
         "path": "official__max/20250731141226.json"
+    },
+    {
+        "id": "official__linlin",
+        "version": "20250807205241",
+        "name": "林琳",
+        "enabled": true,
+        "path": "official__linlin/20250807205241.json"
+    },
+    {
+        "id": "official__liyisheng",
+        "version": "20250807205241",
+        "name": "李医生",
+        "enabled": true,
+        "path": "official__liyisheng/20250807205241.json"
+    },
+    {
+        "id": "official__zhangchen",
+        "version": "20250807205241",
+        "name": "张晨",
+        "enabled": true,
+        "path": "official__zhangchen/20250807205241.json"
+    },
+    {
+        "id": "official__shuke",
+        "version": "20250807205241",
+        "name": "书柯",
+        "enabled": true,
+        "path": "official__shuke/20250807205241.json"
+    },
+    {
+        "id": "official__wensheng",
+        "version": "20250807205241",
+        "name": "闻笙",
+        "enabled": true,
+        "path": "official__wensheng/20250807205241.json"
+    },
+    {
+        "id": "official__linzhixing",
+        "version": "20250807205241",
+        "name": "林知行",
+        "enabled": true,
+        "path": "official__linzhixing/20250807205241.json"
+    },
+    {
+        "id": "official__shenming",
+        "version": "20250807205241",
+        "name": "沈明",
+        "enabled": true,
+        "path": "official__shenming/20250807205241.json"
     }
 ]

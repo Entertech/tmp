@@ -23,5 +23,89 @@
             "provider": "ms",
             "speaker": "zh-CN,zh-CN-YunfengNeural,strict,+5"
         }
+    },
+    {
+        "enabled": true,
+        "id": "official__linlin",
+        "version": "20250807205241",
+        "asr": {
+            "hot_keywords_path": "official__linlin/20250807205241.json"
+        },
+        "tts": {
+            "provider": "ms",
+            "speaker": "zh-CN,zh-CN-Xiaoxiao2:DragonHDFlashLatestNeural,default,+5"
+        }
+    },
+    {
+        "enabled": true,
+        "id": "official__liyisheng",
+        "version": "20250807205241",
+        "asr": {
+            "hot_keywords_path": "official__liyisheng/20250807205241.json"
+        },
+        "tts": {
+            "provider": "ms",
+            "speaker": "zh-CN,zh-CN-YunfengNeural,strict,+5"
+        }
+    },
+    {
+        "enabled": true,
+        "id": "official__zhangchen",
+        "version": "20250807205241",
+        "asr": {
+            "hot_keywords_path": "official__zhangchen/20250807205241.json"
+        },
+        "tts": {
+            "provider": "ms",
+            "speaker": "zh-CN,zh-CN-YunfengNeural,strict,+5"
+        }
+    },
+    {
+        "enabled": true,
+        "id": "official__shuke",
+        "version": "20250807205241",
+        "asr": {
+            "hot_keywords_path": "official__shuke/20250807205241.json"
+        },
+        "tts": {
+            "provider": "ms",
+            "speaker": "zh-CN,zh-CN-Xiaoxiao2:DragonHDFlashLatestNeural,default,+5"
+        }
+    },
+    {
+        "enabled": true,
+        "id": "official__wensheng",
+        "version": "20250807205241",
+        "asr": {
+            "hot_keywords_path": "official__wensheng/20250807205241.json"
+        },
+        "tts": {
+            "provider": "ms",
+            "speaker": "zh-CN,zh-CN-Xiaoxiao2:DragonHDFlashLatestNeural,default,+5"
+        }
+    },
+    {
+        "enabled": true,
+        "id": "official__linzhixing",
+        "version": "20250807205241",
+        "asr": {
+            "hot_keywords_path": "official__linzhixing/20250807205241.json"
+        },
+        "tts": {
+            "provider": "ms",
+            "speaker": "zh-CN,zh-CN-YunfengNeural,strict,+5"
+        }
+    },
+    {
+        "enabled": true,
+        "id": "official__shenming",
+        "version": "20250807205241",
+        "asr": {
+            "hot_keywords_path": "official__shenming/20250807205241.json"
+        },
+        "tts": {
+            "provider": "ms",
+            "speaker": "zh-CN,zh-CN-YunfengNeural,strict,+5"
+        }
     }
 ]
