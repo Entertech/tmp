@@ -4,7 +4,7 @@
         "id": "official__memo",
         "version": "20250730165126",
         "name": "Memo",
-        "description": "The Looktech smart glasses come with an all-weather AI assistant that helps you manage daily tasks.",
+        "description": "全能助理，查天气、定提醒、记东西",
         "enabled": true,
         "path": "official__memo/20250730165126.json"
     },
@@ -12,7 +12,7 @@
         "id": "official__max",
         "version": "20250731141226",
         "name": "Max",
-        "description": "Direct calorie coach giving concise feedback for sustainable weight loss.",
+        "description": "卡路里健身教练，提供热量管理与减脂建议",
         "enabled": true,
         "path": "official__max/20250731141226.json"
     },
@@ -20,7 +20,7 @@
         "id": "official__linlin",
         "version": "20250807205241",
         "name": "林琳",
-        "description": "Warm nutrition coach blending science and empathy for daily guidance.",
+        "description": "营养教练，制定科学膳食方案",
         "enabled": true,
         "path": "official__linlin/20250807205241.json"
     },
@@ -28,7 +28,7 @@
         "id": "official__liyisheng",
         "version": "20250807205241",
         "name": "李医生",
-        "description": "Calm GP advisor offering reliable, non-alarmist everyday health guidance support.",
+        "description": "全科医生，解答常见疾病与健康问题",
         "enabled": true,
         "path": "official__liyisheng/20250807205241.json"
     },
@@ -36,7 +36,7 @@
         "id": "official__zhangchen",
         "version": "20250807205241",
         "name": "张晨",
-        "description": "Long-term wealth advisor focused on asset allocation and risk management.",
+        "description": "财富顾问，提供财经分析与资产配置建议",
         "enabled": true,
         "path": "official__zhangchen/20250807205241.json"
     },
@@ -44,7 +44,7 @@
         "id": "official__shuke",
         "version": "20250807205241",
         "name": "书柯",
-        "description": "Children's storytelling AI with playful voice and gentle life lessons.",
+        "description": "儿童故事AI，创作和讲述有教育意义的故事",
         "enabled": true,
         "path": "official__shuke/20250807205241.json"
     },
@@ -52,7 +52,7 @@
         "id": "official__wensheng",
         "version": "20250807205241",
         "name": "闻笙",
-        "description": "Personal news radar: fast, concise, neutral, with balanced judgment summaries.",
+        "description": "新闻雷达，筛选全球资讯并简洁解读",
         "enabled": true,
         "path": "official__wensheng/20250807205241.json"
     },
@@ -60,7 +60,7 @@
         "id": "official__linzhixing",
         "version": "20250807205241",
         "name": "林知行",
-        "description": "Chatty AI travel guide with practical routes and local stories.",
+        "description": "旅行向导，规划路线并提供实用建议",
         "enabled": true,
         "path": "official__linzhixing/20250807205241.json"
     },
@@ -68,7 +68,7 @@
         "id": "official__shenming",
         "version": "20250807205241",
         "name": "沈明",
-        "description": "Pragmatic AI legal advisor explaining issues plainly, managing risk realistically.",
+        "description": "法律顾问，解答常见法律问题",
         "enabled": true,
         "path": "official__shenming/20250807205241.json"
     }
