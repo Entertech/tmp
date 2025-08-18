@@ -9,7 +9,7 @@
         "path": "official__memo/20250730165126.json"
     },
     {
-        "mini": true,
+        "degraded_mode_default": true,
         "id": "official__memo_mini",
         "version": "20250730165126",
         "name": "Memo Mini",
