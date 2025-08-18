@@ -21,6 +21,16 @@
             "top_p": 1
         }
     },
+    "credit_limit": {
+        "text": {
+            "cn": "错误码：1000。您的积分余额不足。",
+            "en": "Error code: 1000. You have no credit limit."
+        },
+        "audio": {
+            "cn": "您的积分余额不足。",
+            "en": "You have no credit limit."
+        }
+    },
     "tools": [
         {
             "name": "enhance.memory",
