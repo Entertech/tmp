@@ -9,7 +9,7 @@
 每个 Agent 配置由 `id` , `version` 字段构成唯一索引。一个 Agent 允许存在多个版本。
 Agent 列表的项有 4 个字段：
 - `default`: 是否设为默认 Agent（默认 false, 只能设置一个为 true）
-- `mini`: 是否设为默认降级版本 Mini Agent（默认 false, 只能设置一个为 true）
+- `degraded_mode_default`: 是否设为默认降级版本 Agent（默认 false, 只能设置一个为 true）
 - `id`: Agent ID
 - `version`: Agent Version
 - `enabled`: 是否可用 (默认可用)
