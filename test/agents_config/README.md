@@ -48,6 +48,13 @@ Agent 列表的项有 4 个字段：
   - `vision`
     - `provider`：模型提供商，如：`OpenAI`
     - `id`：模型 ID，如：`gpt-4.1`
+- `credit_limit`: 积分限制后应答配置
+  - `text`: 文本模式下的回复
+    - `en`: 英文回复
+    - `cn`: 中文回复
+  - `audio`: 语音聊天下的回复
+    - `en`: 英文回复
+    - `cn`: 中文回复
 - `tools`：工具配置，主要由以下 5 个参数构成：
   - `name`：工具名称
   - `parameters`：工具参数，使用字典定义（参数名：{参数类型等详情}），参数类型如下
@@ -85,6 +92,16 @@ Agent 列表的项有 4 个字段：
             "top_p": 1
         }
     },
+    "credit_limit": {
+        "text": {
+            "cn": "错误码：1000。您的积分余额不足。",
+            "en": "Error code: 1000. You have no credit limit."
+        },
+        "audio": {
+            "cn": "您的积分余额不足。",
+            "en": "You have no credit limit."
+        }
+    }
     "tools": [
         {
             "name": "enhance.tavily_web_search",
