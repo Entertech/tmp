@@ -9,6 +9,15 @@
         "path": "official__memo/20250730165126.json"
     },
     {
+        "mini": true,
+        "id": "official__memo_mini",
+        "version": "20250730165126",
+        "name": "Memo Mini",
+        "description": "全能助理，查天气、定提醒、记东西",
+        "enabled": true,
+        "path": "official__memo_mini/20250730165126.json"
+    },
+    {
         "id": "official__max",
         "version": "20250731141226",
         "name": "Max",
